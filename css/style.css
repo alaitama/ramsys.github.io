@@ -2,3 +2,7 @@
 .main-div {
   max-width: 950px;
 }
+
+.linkable {
+  cursor: pointer;  
+}
